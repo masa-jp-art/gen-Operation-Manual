@@ -40,6 +40,11 @@
 
 ---
 
+### 出力サンプル
+
+- https://docs.google.com/document/d/1UJ7ki3waNGKFdqNXneLiHLJgKWxtw2KL-f5OIzYPJCk/edit
+- https://docs.google.com/spreadsheets/d/1jv9QisZnJfh7E_QcAQeYRbRsDUnguahEy5GbjU3PMik/edit
+
 ### 参考
 
 - **Google API**：このプロジェクトは、GoogleのAPI（Docs, Sheets）を使用しているため、Google Cloud ConsoleでAPIを有効化し、認証情報を適切に設定してください。

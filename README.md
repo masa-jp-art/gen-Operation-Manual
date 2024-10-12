@@ -1,0 +1,2 @@
+# gen-Operation-Manual
+このプロジェクトでは、AIでオペレーションマニュアルを自動生成し、マークダウン形式のテキストをGoogleドキュメントおよびGoogleスプレッドシートに自動的に格納します。サービスではなく社内利用を想定して、Google colabで動作します。OpenAIのAPIを使用してテキストを解析・生成し、Google DocsとGoogle Sheets APIを活用してデータを操作します。
